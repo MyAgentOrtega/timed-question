@@ -87,8 +87,4 @@ submit.addEventListener("click", function(){
   var capture = initials.value
   console.log (capture)
   
-  //grab time left as the score
-  //store the data into local storage
-  // score is tallied and initials are posted 
-  
 })
